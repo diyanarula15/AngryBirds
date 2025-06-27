@@ -10,4 +10,4 @@ A 2D physics-based game featuring projectile motion, collision detection, **mult
 ## Demo
 
 * [Watch Demo](Link_To_Demo_Here)
-    *`https://drive.google.com/drive/folders/1CTpb398ltQ6TvYqCZpV187-Gvey2VM3b?usp=sharing`*
+    *`(https://drive.google.com/drive/folders/1CTpb398ltQ6TvYqCZpV187-Gvey2VM3b?usp=sharing)`*
